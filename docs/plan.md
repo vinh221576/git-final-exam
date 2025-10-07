@@ -7,3 +7,7 @@ Kế hoạch học tập 1 tuần:
 - Thứ 7: Ôn tập và làm bài tập
 Ngày bắt đầu: 13/10/2025
 Ngày kết thúc: 19/10/2025
+
+- Thêm dòng 1: ôn Git cơ bản
+- Thêm dòng 2: luyện merge
+- Thêm dòng 3: thực hành stash
