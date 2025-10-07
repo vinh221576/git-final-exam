@@ -1,3 +1,2 @@
-- Git giúp quản lý phiên bản.
-- Dễ theo dõi thay đổi và tùy biến chỉnh sửa khi ko phù hợp.
-- Là công cụ quan trọng với lập trình viên.
+- Học Git rất thú vị.
+- Giúp làm việc nhóm hiệu quả.
