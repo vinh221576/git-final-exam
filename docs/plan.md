@@ -8,6 +8,11 @@ Kế hoạch học tập 1 tuần:
 Ngày bắt đầu: 13/10/2025
 Ngày kết thúc: 19/10/2025
 
+<<<<<<< Updated upstream
 - Thêm dòng 1: ôn Git cơ bản
 - Thêm dòng 2: luyện merge
 - Thêm dòng 3: thực hành stash
+=======
+- Thêm dòng 4: review
+- Thêm dòng 5: nộp bài
+>>>>>>> Stashed changes
