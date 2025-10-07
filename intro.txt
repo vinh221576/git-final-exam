@@ -1,0 +1,6 @@
+Kế hoạch học tập:
+- Ôn lại kiến thức Git.
+- Luyện tập lệnh branch, merge, stash.
+- Thực hành reset & revert.
+- Tìm hiểu thêm GitHub Actions.
+- Hoàn thành bài kiểm tra đúng hạn.
