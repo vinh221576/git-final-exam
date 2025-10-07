@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello, this is Đinh Trung Vĩnh
+=======
+Xin chào, tôi là Đinh Trung Vĩnh
+>>>>>>> feature-update
+Conflict resolved on 07/10/2025
